@@ -1,4 +1,4 @@
-# Bir Tutam Erlang
+# Bir Tutam Erlang [![Build Status](https://www.gitbook.io/button/status/book/halitalptekin/bir-tutam-erlang)](https://www.gitbook.io/book/halitalptekin/bir-tutam-erlang/activity)
 
 Öncelikle bu kitabın sizlere Erlang öğretmeyi hedeflemediğini söylemek istiyorum. Hatta Erlang bilen kişiler için de bildiğini unutması açısından tehlikeli olabilir. Tüm bunları bilerek okumaya başlamanızı tavsiye ederim.
 
